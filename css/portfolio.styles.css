@@ -1,0 +1,199 @@
+.body{
+    background-image: url("images/background\ dots.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+.image{
+    border-radius: 20px;
+    box-shadow: inset;
+    margin-left: 100px;
+    width: 400px;
+    height: 300px;
+}
+.about{
+    border-radius: 20px;
+    box-shadow: inset;
+    margin-left: 100px;
+    width: 450px;
+    height: 500px; 
+}
+  .head{
+    max-width: 1280px;
+      height: 150px;
+      background-color: rgb(245, 243, 243);
+      margin-left: 26px;
+  }
+    .container{
+        max-width: 1280px;
+        padding: 0 ;
+        margin: 0 auto;
+        background-color: rgb(245, 243, 243);
+        display: flex;
+        height: 600px;
+       font-family: 'Avenir', Helvetica, sans-serif;
+       
+    }
+    .container1{
+        max-width: 1280px;
+        padding: 0 ;
+        margin: 0 auto;
+        background-color: rgb(255, 255, 255);
+        display: flex;
+        height: 600px;
+        margin-left: 180px;
+        font-family: 'Avenir', Helvetica, sans-serif
+    }
+    .heading{
+        margin-left: 40px;
+        font-weight: bold;
+        color: rgb(78, 76, 76);
+        font-size: xx-large;
+       
+        
+    }
+    .heading1{
+        margin-left: 40px;
+        font-weight: bold;
+        color: rgb(78, 76, 76);
+        font-size: xx-large;
+        text-align: center;
+    }
+    .sub-heading{
+        text-align: center;
+        font-weight: normal;
+        color: rgb(78, 76, 76);
+        font-size: large;
+    }
+    .wrapper{
+        max-width: 1280px;
+        padding: 0 ;
+        margin: 0 auto;
+        
+    }
+    .small{
+        font-weight: normal;
+        color: darkgrey;
+        font-size: smaller
+    }
+    .normal{
+        font-weight: normal;
+        color: rgb(139, 139, 139);
+        font-size: medium;
+    }
+    .icon{
+        width: 20px;
+        height: 20px;
+        margin-right: 30px;
+    }
+    .icon-style{
+        margin-left: 150px;
+        width:100px;
+    }
+    .icon-style1{
+        margin-left: 300px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+  .project4{
+    width: 500px;
+    height: 300px;
+  }
+  .paerpay{
+    width: 150px;
+    height: 30px;
+    margin-top: 40px;
+  }
+  .banner{
+    width:100%;
+    height:100%;
+  }
+  .footer{
+    text-align: center; 
+    font-weight: normal;
+    color: rgb(78, 76, 76);
+    font-size: smaller;
+  }
+    #disp{
+        display: flex;
+    }
+    .paragraph{
+        margin-left: 40px;
+        margin-right: 200px;
+        font-weight: normal;
+        color: rgb(71, 71, 71);
+        font-size: large;
+    }
+    .light{
+        margin-left: 40px;
+       
+        font-weight: normal;
+        font-size: large;
+        margin-right: 200px;
+        color: darkgrey;
+    }
+    .margin{
+        margin-left: 100px;
+    }
+    
+    .display-flex{
+        display: flex;
+    }
+    .display{
+        
+        display: flex;
+        background-image: url("images/background\ dots.png");
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-color: rgb(245, 243, 243);
+        background-position: right;
+    }
+   
+    .center{
+        position: fixed;
+        left: 50%;
+    }
+    
+      .button {
+        background-color:rgb(41, 41, 41);
+        border-radius: 3px;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        height: fit-content;
+        box-shadow: inset 0px 2px 3px rgba( 0,0,0,0.1 );
+      }
+      .box-shade{
+        -webkit-box-shadow: 0 0 10px rgb(20, 19, 19);
+        box-shadow: 0 0 1px rgb(20, 19, 19);
+      }
+      .main-menu
+        {
+        
+        text-decoration: none;
+        list-style: none;
+        display: inline;
+        display: flex;
+        padding: 10px;
+        width: 100%;
+        justify-content: center;
+        position: absolute;
+        font-weight: lighter;
+       
+        }
+        .menu-item{
+            margin-right: 50px;
+        }
+        .profile{
+            width:380px;
+            height:480px;
+            border-radius:3px;
+            box-shadow: 13px -13px rgb(41, 41, 41);
+        }
