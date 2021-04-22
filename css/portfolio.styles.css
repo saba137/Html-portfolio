@@ -4,6 +4,9 @@
     background-size: auto;
 
 }
+#bg{
+
+}
 .image{
     border-radius: 20px;
     box-shadow: inset;
@@ -179,14 +182,15 @@
     }
     .display{
         
-        display: flex;
         background-image: url("images/background\ dots.png");
         background-repeat: no-repeat;
         background-size: auto;
-        background-color: rgb(245, 243, 243);
         background-position: right;
     }
-   
+   .icons{
+       margin-left: 980px;
+       background-color:rgb(245, 243, 243) ;
+   }
     .center{
         position: fixed;
         left: 50%;
