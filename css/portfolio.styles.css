@@ -10,6 +10,9 @@ body{
 
 
 }
+h2{
+    font-size: 20px;
+}
 
 .image{
     border-radius: 20px;
@@ -46,9 +49,16 @@ body{
         margin-bottom: 50px;
       
     }
-    .footer{
+    footer{
         background-color: rgb(245, 243, 243);
         margin-bottom: 50px;
+        text-align: center; 
+        font-weight: normal;
+        color: rgb(78, 76, 76);
+        font-size: smaller;
+    }
+    .footer-icon{
+        margin-left:60px;
     }
     .bg-white{
         margin-left: 100px;
@@ -158,11 +168,8 @@ body{
     width:100%;
     height:100%;
   }
-  .footer{
-    text-align: center; 
-    font-weight: normal;
-    color: rgb(78, 76, 76);
-    font-size: smaller;
+  .h2{
+    margin-left: 100px;
   }
     #disp{
         display: flex;
@@ -264,7 +271,7 @@ body{
             margin-right: 50px;
         }
         .profile{
-            margin-left: 300px;
+            margin-left: 400px;
             margin-top: 50px;
             width:380px;
             height:480px;
